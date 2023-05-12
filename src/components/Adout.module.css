@@ -1,0 +1,9 @@
+.contenedor{
+    color: white;
+    justify-content: space-between;
+    text-align: center;
+    -webkit-text-stroke: 2px black;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 60px;
+}

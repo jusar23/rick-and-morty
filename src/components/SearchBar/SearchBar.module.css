@@ -1,0 +1,27 @@
+.contenedor{
+  display: flex;
+  position: sticky;
+top: 0; 
+background-color: green ;
+  padding: 5px;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+
+.contenedor input{
+background-color: transparent;
+border-bottom: 2px solid black;
+border-top: none;
+border-left: none;
+border-right: none;
+margin-right: 1%;
+font-size: 20px;
+}
+.contenedor button{
+border: 1px solid black;
+border-radius: 20px;
+margin-right: 2%;
+font-weight: bold;
+background-color: whitesmoke;
+}

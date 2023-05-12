@@ -1,0 +1,22 @@
+.contenedor{
+    margin-top: 10px;
+}
+.contenedor select{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-right: 2%;
+    font-weight: bold;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.contenedor option{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-right: 2%;
+    font-weight: bold;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    font-size: 20px;
+}

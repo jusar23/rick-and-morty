@@ -1,0 +1,18 @@
+.nav{
+    background-color: green;
+    width: 100%;
+    align-items: rigth;
+    align-items: flex-end;
+    justify-content: flex-end;
+    border: 2px solid black;
+}
+
+.nav button{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-right: 2%;
+    font-weight: bold;
+    background-color: whitesmoke;
+    font-size: 20px;
+    
+    }

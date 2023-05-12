@@ -1,0 +1,21 @@
+.App{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    flex-wrap: wrap;
+    padding: 20px;
+    border: none;
+    margin:auto;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 11px;
+    text-align:center;
+}
+
+body{
+    background-color: green;
+    background-image: url('../src/components/asets/b089c7c580d1408bed9892dfdc8c2eca.jpg') ;
+    background-size: cover;
+    width: 100%;
+    background-position: center center;
+}

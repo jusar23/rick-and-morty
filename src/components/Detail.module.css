@@ -1,0 +1,34 @@
+.contenedor button{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-right: 2%;
+    font-weight: bold;
+    background-color: whitesmoke;
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    float: left;
+    margin-left: -300px;
+}
+.contenedor h1{
+    margin-right: 20%;
+    font-weight: bold;
+    background-color:none;
+    color: white;
+    justify-content: space-between;
+    text-align: center;
+    -webkit-text-stroke: 2px black;
+    font-weight: bold;
+    font-size: 35px;
+    float: left;
+    display: block;
+}
+
+.contenedor img{
+    margin-top: 30px;
+    margin-right: 30px;
+    border: 2px solid black;
+    float: right;
+    width: 450px;
+    height: 450px;
+}

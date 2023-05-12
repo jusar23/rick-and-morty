@@ -1,0 +1,48 @@
+
+/* .cards { */
+    /* position: relative; */
+    /* width: 300px; */
+    /* height: 350px; */
+    /* margin: 20px; */
+  /* } */
+/*    */
+  /* .cards .face { */
+    /* position: absolute; */
+    /* width: 100%; */
+    /* height: 100%; */
+    /* backface-visibility: hidden; */
+    /* border-radius: 10px; */
+    /* overflow: hidden; */
+    /* transition: .5s; */
+  /* } */
+  /* .cards .front { */
+    /* transform: perspective(600px) rotateY(0deg); */
+    /* box-shadow: 0 5px 10px #fff; */
+  /* } */
+/*  */
+  /* .cards .front img { */
+    /* width: 298px; */
+    /* height: 290px; */
+/*     */
+    /* object-fit: cover; */
+    /* overflow: hidden; */
+/*      */
+  /* } */
+  /* .cards .back { */
+    /* transform: perspective(600px) rotateY(180deg); */
+    /* background: rgb(3, 35, 54); */
+    /* padding: 15px; */
+    /* color: #f3f3f3; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: space-between; */
+    /* text-align: center; */
+    /* box-shadow: 0.5px 10px #fff; */
+  /* } */
+/*     */
+  /* .cards:hover .front{ */
+    /* transform: perspective(600px) rotateY(180deg) */
+  /* } */
+  /* .cards:hover .back{ */
+    /* transform: perspective(600px) rotateY(360deg) */
+  /* } */
